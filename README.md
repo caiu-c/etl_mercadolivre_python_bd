@@ -47,7 +47,8 @@ This project aims to automate the process of data collection, indicator calculat
 - **Total Brands**: 181 brands were identified, with an average price of R$44.43.
 
 ### Contact
-For more information, questions, or suggestions, contact [Your Name] at [youremail@example.com].
+For more information, questions, or suggestions, contact [Caio Cavalcanti] at [contato.caiuc@gmail.com].
+LinkedIn: [https://www.linkedin.com/in/caiuc/]
 
 ---
 
@@ -104,7 +105,8 @@ Este projeto visa automatizar o processo de coleta de dados, cálculo de indicad
 - **Total de Marcas**: 181 marcas com um preço médio de R$44,43.
 
 ### Contato
-Para mais informações, dúvidas ou sugestões, entre em contato com [Seu Nome] através do email [seuemail@exemplo.com].
+Para mais informações, dúvidas ou sugestões, entre em contato com [Caio Cavalcanti] através do email [contato.caiuc@gmail.com].
+LinkedIn: [https://www.linkedin.com/in/caiuc/]
 
 ---
 
